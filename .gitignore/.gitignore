@@ -1,0 +1,1 @@
+curl -X GET "https://gateway.apiserpro.serpro.gov.br/consulta-cnpj-df/v2/qsa/77338424000195" -H "accept: application/json"  -H "Authorization: Bearer 374676cc-68f1-3884-9df7-ef8df7ee3ce0"
